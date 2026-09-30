@@ -77,6 +77,20 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "sqlite-todo-app",
+      "title": "SQLite Todo App",
+      "description": "Build a persistent todo application with Python and SQLite",
+      "path": "assignments/sqlite-todo-app",
+      "dueDate": "2026-10-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
